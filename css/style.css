@@ -1,0 +1,21 @@
+body {
+  background: #23036a;
+  text-align: center;
+  color: white;
+  text-shadow: 0px 0px 3px black;
+};
+
+button {
+  background: #6200ee !important;
+};
+
+.modal-body {
+  color: black;
+  text-shadow: none;
+};
+
+
+
+i {
+  cursor: pointer;
+};
